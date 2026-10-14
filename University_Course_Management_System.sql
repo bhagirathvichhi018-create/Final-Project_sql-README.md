@@ -1,9 +1,3 @@
--- =========================================================
--- FINAL PROJECT: University Course Management System
--- Database: MySQL 8.0+
--- Level: Beginner-friendly
--- =========================================================
-
 CREATE DATABASE IF NOT EXISTS UniversityCourseDB;
 USE UniversityCourseDB;
 
